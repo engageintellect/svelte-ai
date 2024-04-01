@@ -28,7 +28,7 @@
 <div class="shadow sticky top-0 -z-[-1] bg-base-300">
 	<div class="navbar bg-base-300 flex justify-between gap-2 max-w-3xl mx-auto">
 		<div class="">
-			<a href="/" class="btn btn-outline btn-primary text-xl">daisyUI</a>
+			<a href="/" class="btn btn-outline btn-primary text-xl">ChatAI</a>
 		</div>
 
 		<!-- <div class="flex items-center gap-2 w-full sm:w-1/2 lg:w-1/3"> -->

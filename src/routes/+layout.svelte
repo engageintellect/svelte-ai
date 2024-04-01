@@ -1,5 +1,4 @@
 <script>
-	import SideNav from '$lib/ components/SideNav.svelte';
 	import '../app.pcss';
 	import Nav from '$lib/ components/Nav.svelte';
 </script>
